@@ -1,0 +1,23 @@
+body {
+    
+    margin: 20%;
+    vertical-align: middle;
+    background-color: aquamarine;
+}
+
+.conversor {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: goldenrod;
+    display: inline-block;
+}
+.conversor input {
+    padding: 5px;
+}
+.conversor input[type="button"] {
+    background-color: goldenrod;
+    font-weight: bold;
+    color: bisque;
+    padding: 3px;
+}
